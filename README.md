@@ -106,3 +106,16 @@ pip install (package name)
 * Final Predictions :
 ![final prediction](https://user-images.githubusercontent.com/56465352/138640834-6503e5e7-1784-44f5-b82d-51bffa8ed588.JPG)
 
+
+## Authors
+
+Dilip Nikhil 
+
+## Version History
+
+* 0.1
+    * Initial Release
+
+## License
+
+This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
